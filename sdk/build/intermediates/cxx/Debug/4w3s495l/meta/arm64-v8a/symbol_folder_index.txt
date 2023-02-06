@@ -1,0 +1,1 @@
+/home/pranathi/AndroidStudioProjects/OpenCVVedio/sdk/build/intermediates/cxx/Debug/4w3s495l/obj/arm64-v8a
